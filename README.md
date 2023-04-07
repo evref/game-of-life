@@ -1,1 +1,1 @@
-# conway-gol-c
+# Game Of Life
